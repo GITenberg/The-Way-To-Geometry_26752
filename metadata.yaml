@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32223
     wikipedia: http://en.wikipedia.org/wiki/Petrus_Ramus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26752#The-Way-To-Geometry
 gutenberg_bookshelf: Mathematics
 gutenberg_issued: '2008-10-02'
 gutenberg_type: Text
