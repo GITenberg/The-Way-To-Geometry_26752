@@ -1,0 +1,36 @@
+_repo: The-Way-To-Geometry_26752
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Bedwell, William
+    deathdate: 1632
+    gutenberg_agent_id: '32224'
+    url: http://www.gutenberg.org/2009/agents/32224
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ramus, Petrus
+    alias: Ramus, Peter
+    birthdate: 1515
+    deathdate: 1572
+    gutenberg_agent_id: '32223'
+    url: http://www.gutenberg.org/2009/agents/32223
+    wikipedia: http://en.wikipedia.org/wiki/Petrus_Ramus
+description: ''
+gutenberg_bookshelf: Mathematics
+gutenberg_issued: '2008-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26752'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Geometry -- Early works to 1800'
+- !lcc 'QA'
+- !lcsh 'Mathematics -- Early works to 1800'
+title: The Way To Geometry
+url: http://www.gutenberg.org/ebooks/26752
